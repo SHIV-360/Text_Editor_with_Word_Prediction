@@ -1,7 +1,3 @@
-Here’s an alternative README file for your project:  
-
----
-
 # Advanced Text Editor with AI-Powered Word Prediction  
 
 ## Overview  
@@ -64,5 +60,3 @@ Contributions are welcome! Fork the repository and submit a pull request for any
 
 ## License  
 Licensed under the MIT License.  
-
----
